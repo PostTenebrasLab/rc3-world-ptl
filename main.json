@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"..\/ptl-map"
+         "target":"."
         }
     },
  "height":27,
@@ -192,7 +192,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/ptl-map\/tiles_png\/dk_space_station.png",
+         "image":"tiles_png\/dk_space_station.png",
          "imageheight":64,
          "imagewidth":512,
          "margin":0,
@@ -205,7 +205,7 @@
         {
          "columns":9,
          "firstgid":33,
-         "image":"..\/ptl-map\/tiles_png\/mapUtilities.png",
+         "image":"tiles_png\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -218,7 +218,7 @@
         {
          "columns":7,
          "firstgid":42,
-         "image":"..\/ptl-map\/tiles_png\/minideko.png",
+         "image":"tiles_png\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -231,7 +231,7 @@
         {
          "columns":16,
          "firstgid":133,
-         "image":"..\/ptl-map\/tiles_png\/rc3-mullana-floor-wall.png",
+         "image":"tiles_png\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -244,7 +244,7 @@
         {
          "columns":16,
          "firstgid":389,
-         "image":"..\/ptl-map\/tiles_png\/rc3-mullana-functionary.png",
+         "image":"tiles_png\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -257,7 +257,7 @@
         {
          "columns":16,
          "firstgid":645,
-         "image":"..\/ptl-map\/tiles_png\/rc3-mullana-neon-signs.png",
+         "image":"tiles_png\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -270,7 +270,7 @@
         {
          "columns":16,
          "firstgid":901,
-         "image":"..\/ptl-map\/tiles_png\/rc3-mullana-objects.png",
+         "image":"tiles_png\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -283,7 +283,7 @@
         {
          "columns":16,
          "firstgid":1029,
-         "image":"..\/ptl-map\/tiles_png\/rc3-mullana-single-use.png",
+         "image":"tiles_png\/rc3-mullana-single-use.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -296,7 +296,7 @@
         {
          "columns":15,
          "firstgid":1285,
-         "image":"..\/ptl-map\/tiles_png\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles_png\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -309,7 +309,7 @@
         {
          "columns":16,
          "firstgid":3280,
-         "image":"..\/ptl-map\/tiles_png\/furniture.png",
+         "image":"tiles_png\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -322,7 +322,7 @@
         {
          "columns":16,
          "firstgid":4304,
-         "image":"..\/ptl-map\/tiles_png\/AceSet-Hospital.png",
+         "image":"tiles_png\/AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
