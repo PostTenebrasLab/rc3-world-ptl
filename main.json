@@ -22,7 +22,7 @@
                  "value":"PTLrC3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"silent",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"foo.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"https:\/\/www.posttenebraslab.ch\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"panel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"accessories",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -220,6 +220,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":7,
                  "properties":[
