@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"loo.json#start"
+                 "value":"<SLUG>\/loo.json#floorLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
