@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#floorLayer"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
