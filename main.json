@@ -22,7 +22,7 @@
                  "value":"shared_PTLrC3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"silent",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"foo.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"https:\/\/www.posttenebraslab.ch\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"loo.json#floorLayer"
+                 "value":"loo.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,7 +136,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
          "name":"panel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
          "name":"accessories",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":44,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
