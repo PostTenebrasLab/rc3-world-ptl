@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"{<lobby>\/erfas-south.json#ptl}"
                 }],
          "type":"tilelayer",
          "visible":true,
