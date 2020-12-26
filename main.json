@@ -15,12 +15,6 @@
          "id":8,
          "name":"jitsiRoom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiroom",
-                 "type":"string",
-                 "value":"PTLrC3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,
