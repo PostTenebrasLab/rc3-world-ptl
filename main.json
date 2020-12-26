@@ -363,6 +363,7 @@
          "tilewidth":32
         }, 
         {
+         "backgroundcolor":"#00000000",
          "columns":3,
          "firstgid":4528,
          "image":"tiles_png\/logo.png",
