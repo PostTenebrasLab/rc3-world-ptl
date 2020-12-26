@@ -373,7 +373,8 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
