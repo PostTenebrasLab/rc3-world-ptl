@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_ptl}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_ptl}"
                 }],
          "type":"tilelayer",
          "visible":true,
